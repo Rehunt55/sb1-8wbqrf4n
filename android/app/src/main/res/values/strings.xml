@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">OmniAI</string>
+    <string name="title_activity_main">OmniAI</string>
+    <string name="package_name">com.omniai.app</string>
+    <string name="custom_url_scheme">com.omniai.app</string>
+</resources>
